@@ -7,10 +7,6 @@ import com.linecorp.armeria.common.HttpResponse;
 import com.linecorp.armeria.server.Server;
 import com.linecorp.armeria.server.ServerBuilder;
 
-/**
- *
- * @author airhacks.com
- */
 interface App {
 
      public static final int PORT = 8000;
